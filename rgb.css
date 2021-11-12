@@ -9,7 +9,7 @@
 }
 body {
   font-family: "Open Sans", sans-serif;
-  Background : #f1f5f8;
+  background: rgb(255, 69, 0);
   line-height: 1.5;
   font-size: 0.875rem;
 }
@@ -24,7 +24,6 @@ h2,
 h3,
 h4 {
   letter-spacing: 0.1rem;
-  text-transform: capitalize;
   line-height: 1.25;
   margin-bottom: 0.75rem;
   font-family: "Roboto", sans-serif;
